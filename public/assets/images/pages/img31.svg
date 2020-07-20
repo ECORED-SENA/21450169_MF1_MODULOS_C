@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1016.139" height="99.227" viewBox="0 0 1016.139 99.227">
+  <g id="Grupo_13514" data-name="Grupo 13514" transform="translate(-211.738 -5002.901)">
+    <g id="Grupo_13390" data-name="Grupo 13390">
+      <g id="Grupo_13389" data-name="Grupo 13389">
+        <circle id="Elipse_159" data-name="Elipse 159" cx="16.8" cy="16.8" r="16.8" transform="translate(211.738 5002.901)" fill="#66cec4"/>
+        <text id="_01" data-name="01" transform="translate(215.098 5011.082)" fill="#fff" font-size="16" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="4.696" y="15">01</tspan></text>
+      </g>
+      <line id="Línea_497" data-name="Línea 497" x2="971.126" transform="translate(255.751 5039.187)" fill="none" stroke="#d2e1f3" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text id="Los_casos_de_uso_que_se_incluyen_deben_ser_realizados_para_que_se_pueda_ejecutar_el_caso_de_uso_principal." data-name="Los casos de uso que se incluyen deben ser realizados para que se pueda ejecutar el caso de uso principal." transform="translate(263.093 5006.829)" fill="#00223d" font-size="16" font-family="OpenSans-Regular, Open Sans"><tspan x="0" y="17">Los casos de uso que se incluyen deben ser realizados para que se pueda ejecutar el caso de uso principal.</tspan></text>
+    </g>
+    <g id="Grupo_13406" data-name="Grupo 13406">
+      <g id="Grupo_13405" data-name="Grupo 13405">
+        <circle id="Elipse_167" data-name="Elipse 167" cx="16.8" cy="16.8" r="16.8" transform="translate(211.738 5058.245)" fill="#66cec4"/>
+        <text id="_02" data-name="02" transform="translate(215.098 5066.426)" fill="#fff" font-size="16" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="3.08" y="15">02</tspan></text>
+      </g>
+      <line id="Línea_505" data-name="Línea 505" x2="971.126" transform="translate(255.751 5091.972)" fill="none" stroke="#d2e1f3" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text id="La_punta_de_la_flecha_va_hacia_los_casos_que_se_incluyen." data-name="La punta de la flecha va hacia los casos que se incluyen." transform="translate(263.093 5061.128)" fill="#00223d" font-size="16" font-family="OpenSans-Regular, Open Sans"><tspan x="0" y="17">La punta de la flecha va hacia los casos que se incluyen.</tspan></text>
+    </g>
+  </g>
+</svg>

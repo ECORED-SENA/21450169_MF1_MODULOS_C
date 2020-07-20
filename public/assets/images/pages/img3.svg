@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="664" height="231.914" viewBox="0 0 664 231.914">
+  <g id="Grupo_13494" data-name="Grupo 13494" transform="translate(-387.307 -743.417)">
+    <g id="Grupo_9683" data-name="Grupo 9683">
+      <line id="Línea_393" data-name="Línea 393" x2="20.143" transform="translate(797.871 881.877)" fill="none" stroke="#a3f0f5" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="Línea_394" data-name="Línea 394" x2="20.143" transform="translate(818.014 847.403)" fill="none" stroke="#a3f0f5" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="Línea_395" data-name="Línea 395" x2="20.143" transform="translate(818.014 916.468)" fill="none" stroke="#a3f0f5" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="Línea_396" data-name="Línea 396" y2="68.949" transform="translate(818.014 847.402)" fill="none" stroke="#a3f0f5" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="Línea_397" data-name="Línea 397" x2="40.286" transform="translate(636.419 881.877)" fill="none" stroke="#a3f0f5" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="Línea_398" data-name="Línea 398" x2="20.143" transform="translate(656.562 950.711)" fill="none" stroke="#a3f0f5" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="Línea_399" data-name="Línea 399" x2="20.143" transform="translate(656.562 812.813)" fill="none" stroke="#a3f0f5" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="Línea_400" data-name="Línea 400" y2="137.898" transform="translate(656.562 812.813)" fill="none" stroke="#a3f0f5" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <g id="Grupo_9677" data-name="Grupo 9677">
+        <rect id="Rectángulo_3085" data-name="Rectángulo 3085" width="121.166" height="46.8" rx="4" transform="translate(676.705 789.413)" fill="#ffca7d"/>
+        <text id="Clase" transform="translate(686.879 800.433)" fill="#805413" font-size="18" font-family="OpenSans-Regular, Open Sans"><tspan x="28.107" y="19">Clase</tspan></text>
+      </g>
+      <g id="Grupo_9678" data-name="Grupo 9678">
+        <rect id="Rectángulo_3086" data-name="Rectángulo 3086" width="121.166" height="46.8" rx="4" transform="translate(676.705 858.362)" fill="#ffca7d"/>
+        <text id="Objeto" transform="translate(686.879 869.382)" fill="#805413" font-size="18" font-family="OpenSans-Regular, Open Sans"><tspan x="21.946" y="19">Objeto</tspan></text>
+      </g>
+      <g id="Grupo_9679" data-name="Grupo 9679">
+        <rect id="Rectángulo_3087" data-name="Rectángulo 3087" width="121.166" height="46.8" rx="4" transform="translate(676.705 927.311)" fill="#ffca7d"/>
+        <text id="Instancia" transform="translate(686.879 938.332)" fill="#805413" font-size="18" font-family="OpenSans-Regular, Open Sans"><tspan x="12.809" y="19">Instancia</tspan></text>
+      </g>
+      <g id="Grupo_9680" data-name="Grupo 9680">
+        <rect id="Rectángulo_3088" data-name="Rectángulo 3088" width="157.271" height="73.28" rx="4" transform="translate(479.148 845.122)" fill="#33bdb0"/>
+        <text id="Conceptos_Básicos" data-name="Conceptos Básicos" transform="translate(487.659 854.021)" fill="#fff" font-size="20" font-family="OpenSans-SemiBold, Open Sans" font-weight="600"><tspan x="19.481" y="21">Conceptos </tspan><tspan x="34.139" y="45">Básicos</tspan></text>
+      </g>
+      <g id="Grupo_9681" data-name="Grupo 9681">
+        <rect id="Rectángulo_3089" data-name="Rectángulo 3089" width="121.166" height="46.8" rx="4" transform="translate(838.3 824.003)" fill="#ffca7d"/>
+        <text id="Atributos" transform="translate(848.474 835.023)" fill="#805413" font-size="18" font-family="OpenSans-Regular, Open Sans"><tspan x="11.64" y="19">Atributos</tspan></text>
+      </g>
+      <g id="Grupo_9682" data-name="Grupo 9682">
+        <rect id="Rectángulo_3090" data-name="Rectángulo 3090" width="121.166" height="46.8" rx="4" transform="translate(838.3 892.952)" fill="#ffca7d"/>
+        <text id="Métodos" transform="translate(848.474 903.973)" fill="#805413" font-size="18" font-family="OpenSans-Regular, Open Sans"><tspan x="13.376" y="19">Métodos</tspan></text>
+      </g>
+    </g>
+    <text id="Conceptos_básicos_de_la_programación_orientada_a_objetos" data-name="Conceptos básicos de la programación orientada a objetos" transform="translate(719.307 764.417)" fill="#008275" font-size="22" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="-331.925" y="0">Conceptos básicos de la programación orientada a objetos</tspan></text>
+  </g>
+</svg>

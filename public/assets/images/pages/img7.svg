@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="726.837" height="603.183" viewBox="0 0 726.837 603.183">
+  <g id="Grupo_13498" data-name="Grupo 13498" transform="translate(-356.066 -1985.618)">
+    <g id="Grupo_9685" data-name="Grupo 9685">
+      <rect id="Rectángulo_3091" data-name="Rectángulo 3091" width="217.556" height="42.022" transform="translate(610.529 2092.046)" fill="#ffca7d"/>
+      <rect id="Rectángulo_3092" data-name="Rectángulo 3092" width="217.556" height="69.546" transform="translate(610.529 2134.068)" fill="#ffe7ba"/>
+      <text id="Atributos" transform="translate(620.601 2100.562)" fill="#805413" font-size="18" font-family="OpenSans-Regular, Open Sans"><tspan x="59.938" y="19">Atributos</tspan></text>
+      <text id="marca_motor" data-name="marca
+motor" transform="translate(620.601 2143.492)" fill="#805413" font-size="18" font-family="OpenSans-Regular, Open Sans"><tspan x="72.366" y="19">marca</tspan><tspan x="72.612" y="40.6">motor</tspan></text>
+      <rect id="Rectángulo_3093" data-name="Rectángulo 3093" width="217.556" height="42.022" transform="translate(610.279 2203.614)" fill="#ffca7d"/>
+      <path id="Rectángulo_3094" data-name="Rectángulo 3094" d="M0,0H217.556a0,0,0,0,1,0,0V85.4a4,4,0,0,1-4,4H4a4,4,0,0,1-4-4V0A0,0,0,0,1,0,0Z" transform="translate(610.529 2245.636)" fill="#ffe7ba"/>
+      <text id="Atributos-2" data-name="Atributos" transform="translate(620.351 2212.13)" fill="#805413" font-size="18" font-family="OpenSans-Regular, Open Sans"><tspan x="59.938" y="19">Atributos</tspan></text>
+      <text id="avanzar_frenar_cambiarVel_" data-name="avanzar( )
+frenar( )
+cambiarVel( )" transform="translate(620.601 2255.061)" fill="#805413" font-size="18" font-family="OpenSans-Regular, Open Sans"><tspan x="58.11" y="19">avanzar( )</tspan><tspan x="65.066" y="40.6">frenar( )</tspan><tspan x="44.227" y="62.2">cambiarVel( )</tspan></text>
+      <g id="Grupo_9684" data-name="Grupo 9684">
+        <path id="Rectángulo_3095" data-name="Rectángulo 3095" d="M4,0H213.556a4,4,0,0,1,4,4V54.289a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" transform="translate(610.529 2037.757)" fill="#33bdb0"/>
+        <text id="CLASE_VEHÍCULO" data-name="CLASE VEHÍCULO" transform="translate(620.601 2050.1)" fill="#fff" font-size="20" font-family="OpenSans-SemiBold, Open Sans" font-weight="600"><tspan x="17.247" y="21">CLASE VEHÍCULO</tspan></text>
+      </g>
+    </g>
+    <g id="Grupo_9687" data-name="Grupo 9687">
+      <rect id="Rectángulo_3096" data-name="Rectángulo 3096" width="217.556" height="5.122" transform="translate(865.347 2165.846)" fill="#ffca7d"/>
+      <rect id="Rectángulo_3097" data-name="Rectángulo 3097" width="217.556" height="5.122" transform="translate(865.347 2240.514)" fill="#ffca7d"/>
+      <rect id="Rectángulo_3098" data-name="Rectángulo 3098" width="217.556" height="69.546" transform="translate(865.347 2170.968)" fill="#ffe7ba"/>
+      <text id="marca:_Mazda_motor:_AB147" data-name="marca: Mazda
+motor: AB147" transform="translate(875.419 2180.393)" fill="#805413" font-size="18" font-family="OpenSans-Regular, Open Sans"><tspan x="39.771" y="19">marca: Mazda</tspan><tspan x="40.914" y="40.6">motor: AB147</tspan></text>
+      <path id="Rectángulo_3099" data-name="Rectángulo 3099" d="M0,0H217.556a0,0,0,0,1,0,0V85.4a4,4,0,0,1-4,4H4a4,4,0,0,1-4-4V0A0,0,0,0,1,0,0Z" transform="translate(865.347 2245.636)" fill="#ffe7ba"/>
+      <text id="avanzar_frenar_cambiarVel_2" data-name="avanzar( )
+frenar( )
+cambiarVel( )" transform="translate(875.419 2255.061)" fill="#805413" font-size="18" font-family="OpenSans-Regular, Open Sans"><tspan x="58.11" y="19">avanzar( )</tspan><tspan x="65.066" y="40.6">frenar( )</tspan><tspan x="44.227" y="62.2">cambiarVel( )</tspan></text>
+      <g id="Grupo_9686" data-name="Grupo 9686">
+        <path id="Rectángulo_3100" data-name="Rectángulo 3100" d="M4,0H213.556a4,4,0,0,1,4,4V54.289a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" transform="translate(865.347 2111.557)" fill="#33bdb0"/>
+        <text id="Objeto_2" data-name="Objeto 2" transform="translate(875.419 2123.9)" fill="#fff" font-size="20" font-family="OpenSans-SemiBold, Open Sans" font-weight="600"><tspan x="57.71" y="21">Objeto 2</tspan></text>
+      </g>
+    </g>
+    <g id="Grupo_9689" data-name="Grupo 9689">
+      <rect id="Rectángulo_3101" data-name="Rectángulo 3101" width="217.556" height="5.122" transform="translate(356.066 2165.846)" fill="#ffca7d"/>
+      <rect id="Rectángulo_3102" data-name="Rectángulo 3102" width="217.556" height="5.122" transform="translate(356.066 2240.514)" fill="#ffca7d"/>
+      <rect id="Rectángulo_3103" data-name="Rectángulo 3103" width="217.556" height="69.546" transform="translate(356.066 2170.968)" fill="#ffe7ba"/>
+      <text id="marca:_Renault_motor:_MC21" data-name="marca: Renault
+motor: MC21" transform="translate(366.137 2180.393)" fill="#805413" font-size="18" font-family="OpenSans-Regular, Open Sans"><tspan x="35.513" y="19">marca: Renault</tspan><tspan x="43.784" y="40.6">motor: MC21</tspan></text>
+      <path id="Rectángulo_3104" data-name="Rectángulo 3104" d="M0,0H217.556a0,0,0,0,1,0,0V85.4a4,4,0,0,1-4,4H4a4,4,0,0,1-4-4V0A0,0,0,0,1,0,0Z" transform="translate(356.066 2245.636)" fill="#ffe7ba"/>
+      <text id="avanzar_frenar_cambiarVel_3" data-name="avanzar( )
+frenar( )
+cambiarVel( )" transform="translate(366.137 2255.061)" fill="#805413" font-size="18" font-family="OpenSans-Regular, Open Sans"><tspan x="58.11" y="19">avanzar( )</tspan><tspan x="65.066" y="40.6">frenar( )</tspan><tspan x="44.227" y="62.2">cambiarVel( )</tspan></text>
+      <g id="Grupo_9688" data-name="Grupo 9688">
+        <path id="Rectángulo_3105" data-name="Rectángulo 3105" d="M4,0H213.556a4,4,0,0,1,4,4V54.289a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" transform="translate(356.066 2111.557)" fill="#33bdb0"/>
+        <text id="Objeto_1" data-name="Objeto 1" transform="translate(366.137 2123.9)" fill="#fff" font-size="20" font-family="OpenSans-SemiBold, Open Sans" font-weight="600"><tspan x="57.71" y="21">Objeto 1</tspan></text>
+      </g>
+    </g>
+    <g id="Grupo_9691" data-name="Grupo 9691">
+      <rect id="Rectángulo_3106" data-name="Rectángulo 3106" width="217.556" height="5.122" transform="translate(737.342 2417.586)" fill="#ffca7d"/>
+      <rect id="Rectángulo_3107" data-name="Rectángulo 3107" width="217.556" height="5.122" transform="translate(737.342 2492.254)" fill="#ffca7d"/>
+      <rect id="Rectángulo_3108" data-name="Rectángulo 3108" width="217.556" height="69.546" transform="translate(737.342 2422.708)" fill="#ffe7ba"/>
+      <text id="marca:_Chevrolet_motor:_VXD121" data-name="marca: Chevrolet
+motor: VXD121" transform="translate(747.413 2432.132)" fill="#805413" font-size="18" font-family="OpenSans-Regular, Open Sans"><tspan x="27.26" y="19">marca: Chevrolet</tspan><tspan x="35.329" y="40.6">motor: VXD121</tspan></text>
+      <path id="Rectángulo_3109" data-name="Rectángulo 3109" d="M0,0H217.556a0,0,0,0,1,0,0V85.4a4,4,0,0,1-4,4H4a4,4,0,0,1-4-4V0A0,0,0,0,1,0,0Z" transform="translate(737.342 2497.376)" fill="#ffe7ba"/>
+      <text id="avanzar_frenar_cambiarVel_4" data-name="avanzar( )
+frenar( )
+cambiarVel( )" transform="translate(747.413 2506.801)" fill="#805413" font-size="18" font-family="OpenSans-Regular, Open Sans"><tspan x="58.11" y="19">avanzar( )</tspan><tspan x="65.066" y="40.6">frenar( )</tspan><tspan x="44.227" y="62.2">cambiarVel( )</tspan></text>
+      <g id="Grupo_9690" data-name="Grupo 9690">
+        <path id="Rectángulo_3110" data-name="Rectángulo 3110" d="M4,0H213.556a4,4,0,0,1,4,4V54.289a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" transform="translate(737.342 2363.297)" fill="#33bdb0"/>
+        <text id="Objeto_4" data-name="Objeto 4" transform="translate(747.413 2375.64)" fill="#fff" font-size="20" font-family="OpenSans-SemiBold, Open Sans" font-weight="600"><tspan x="57.71" y="21">Objeto 4</tspan></text>
+      </g>
+    </g>
+    <g id="Grupo_9693" data-name="Grupo 9693">
+      <rect id="Rectángulo_3111" data-name="Rectángulo 3111" width="217.556" height="5.122" transform="translate(483.217 2417.586)" fill="#ffca7d"/>
+      <rect id="Rectángulo_3112" data-name="Rectángulo 3112" width="217.556" height="5.122" transform="translate(483.217 2492.254)" fill="#ffca7d"/>
+      <rect id="Rectángulo_3113" data-name="Rectángulo 3113" width="217.556" height="69.546" transform="translate(483.217 2422.708)" fill="#ffe7ba"/>
+      <text id="marca:_Daewoo_motor:_XA41B" data-name="marca: Daewoo
+motor: XA41B" transform="translate(493.288 2432.132)" fill="#805413" font-size="18" font-family="OpenSans-Regular, Open Sans"><tspan x="33.144" y="19">marca: Daewoo</tspan><tspan x="40.866" y="40.6">motor: XA41B</tspan></text>
+      <path id="Rectángulo_3114" data-name="Rectángulo 3114" d="M0,0H217.556a0,0,0,0,1,0,0V85.4a4,4,0,0,1-4,4H4a4,4,0,0,1-4-4V0A0,0,0,0,1,0,0Z" transform="translate(483.217 2497.376)" fill="#ffe7ba"/>
+      <text id="avanzar_frenar_cambiarVel_5" data-name="avanzar( )
+frenar( )
+cambiarVel( )" transform="translate(493.288 2506.801)" fill="#805413" font-size="18" font-family="OpenSans-Regular, Open Sans"><tspan x="58.11" y="19">avanzar( )</tspan><tspan x="65.066" y="40.6">frenar( )</tspan><tspan x="44.227" y="62.2">cambiarVel( )</tspan></text>
+      <g id="Grupo_9692" data-name="Grupo 9692">
+        <path id="Rectángulo_3115" data-name="Rectángulo 3115" d="M4,0H213.556a4,4,0,0,1,4,4V54.289a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" transform="translate(483.217 2363.297)" fill="#33bdb0"/>
+        <text id="Objeto_3" data-name="Objeto 3" transform="translate(493.288 2375.64)" fill="#fff" font-size="20" font-family="OpenSans-SemiBold, Open Sans" font-weight="600"><tspan x="57.71" y="21">Objeto 3</tspan></text>
+      </g>
+    </g>
+    <text id="Objetos_de_la_clase_VEHÍCULO" data-name="Objetos de la clase VEHÍCULO" transform="translate(719.307 2006.618)" fill="#008275" font-size="22" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="-169.191" y="0">Objetos de la clase VEHÍCULO</tspan></text>
+  </g>
+</svg>
