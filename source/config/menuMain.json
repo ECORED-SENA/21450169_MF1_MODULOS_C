@@ -15,7 +15,7 @@
   },
   {
     "id": 2,
-    "icon": "fa fa-play-circle",
+    "icon": "fa fa-file-text",
     "slug": "programacion",
     "title": "1. Programación orientada a objetos",
     "breadcrumb": ["Inicio","programacion"],
@@ -28,7 +28,7 @@
         "anchor": "conceptos"
       },   
       {
-        "icon": "fa fa-play-circle",
+        "icon": "fa fa-file-text",
         "slug": "programacion",
         "title": "1.2 Características",
         "anchor": "caracteristicas"
@@ -37,7 +37,7 @@
   },
   {
     "id": 3,
-    "icon": "fa fa-play-circle",
+    "icon": "fa fa-file-text",
     "slug": "identificacion",
     "title": "2. Identificación de requerimientos",
     "breadcrumb": ["Inicio","identificacion"],
@@ -50,7 +50,7 @@
         "anchor": "tipos"
       },   
       {
-        "icon": "fa fa-play-circle",
+        "icon": "fa fa-file-text",
         "slug": "identificacion",
         "title": "2.2 Algunas técnicas ",
         "anchor": "algunas"
@@ -58,7 +58,7 @@
     ]
   },
   {
-    "icon": "fa fa-question-circle",
+    "icon": "fa fa-file-text",
     "slug": "actividad-1",
     "title": "Actividad didáctica",
     "path": "pages/actividad-1.html"
