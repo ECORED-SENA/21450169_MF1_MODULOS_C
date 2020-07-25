@@ -36,10 +36,13 @@ html(lang="es")
                             .card-body
 
                                 ul.list-group.list-group-flush.list.my-n3.nav-temas
-                                    +navTemaItem('text', 'Introducción', 'main.html#page/introduccion/')
-                                    +navTemaItem('1', 'Programación orientada a objetos', 'main.html#page/programacion/')
-                                    +navTemaItem('2', 'Identificación de requerimientos', 'main.html#page/identificacion/')
-                                    +navTemaItem('question', 'Actividad didáctica', 'main.html#page/actividad-1/')
+                                    +navTemaItem('play', 'Introducción', '#introduccion')
+                                    +navTemaItem('1', 'Programación orientada a objetos', '#tema-1')
+                                    +navTemaItem('2', 'Identificación de requerimientos', '#tema-2')
+                                    +navTemaItem('question', 'Actividad didáctica', '#evaluacion')
+                                    +navTemaItem('glosary', 'Glosario', '#glosario')
+                                    +navTemaItem('folder', 'Material complementario', '#anexos')
+                                    +navTemaItem('references', 'Referencias bibliográficas', '#referencias')
 
 
         section#mainContent         
