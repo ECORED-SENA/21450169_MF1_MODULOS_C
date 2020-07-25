@@ -1,23 +1,13 @@
+include ../mixins/functions
+
 .container
 
-  ol
+    .header-ecored
+        h1 Referencias bibliográficas
 
-    li
-      p 
-        | Guerra, C.  (Sin fecha). 
-        i Obtención de requerimientos. Técnicas y estrategia. 
-        | Recuperado de: 
-        a(href="https://sg.com.mx/revista/17/obtencion-requerimientos-tecnicas-y-estrategia", target="_blank") https://sg.com.mx/revista/17/obtencion-requerimientos-tecnicas-y-estrategia
+    .jumbotron.bg-white.referencias
+        +referenciaItem("Guerra, C.  (Sin fecha).  Obtención de requerimientos. Técnicas y estrategia. Recuperado de:", "https://sg.com.mx/revista/17/obtencion-requerimientos-tecnicas-y-estrategia")
 
-    li
-      p 
-        | Joyanes, L. Sánchez, L. (2006). 
-        i Programación en C++ un enfoque práctico. 
-        | España: Mc Graw Hill.
+        +referenciaItem("Joyanes, L. Sánchez, L. (2006). Programación en C++ un enfoque práctico. España: Mc Graw Hill.", "")
 
-    li
-      p 
-        | Metodología Gestión de Requerimientos.  (Sin fecha). 
-        i Técnicas para identificar requisitos funcionales y no funcionales. 
-        | Recuperado de: 
-        a(href="https://sites.google.com/site/metodologiareq/capitulo-ii/tecnicas-para-identificar-requisitos-funcionales-y-no-funcionales", target="_blank") https://sites.google.com/site/metodologiareq/capitulo-ii/tecnicas-para-identificar-requisitos-funcionales-y-no-funcionales
+        +referenciaItem("Metodología Gestión de Requerimientos.  (Sin fecha). Técnicas para identificar requisitos funcionales y no funcionales. Recuperado de:", "https://sites.google.com/site/metodologiareq/capitulo-ii/tecnicas-para-identificar-requisitos-funcionales-y-no-funcionales")
