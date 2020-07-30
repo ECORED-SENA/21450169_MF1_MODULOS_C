@@ -270,3 +270,56 @@ ol.lista > li.mas:before {
     border-radius: 10px;
     padding: 10px;
 }
+
+.icon{
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+    margin: 0px 15px 0px 0px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position-x: 0%;
+    background-position-y: 50%;
+    &.clase{
+        background-image: url('../images/pages/img4.svg');
+    }
+    &.instancia{
+        background-image: url('../images/pages/img5.svg');
+    }
+    &.objeto{
+        background-image: url('../images/pages/img6.svg');
+    }
+    &.abstraccion{
+        background-image: url('../images/pages/img9.svg');
+    }
+    &.herencia{
+        background-image: url('../images/pages/img10.svg');
+    }
+    &.encapsulacion{
+        background-image: url('../images/pages/img12.svg');
+    }
+    &.polimorfismo{
+        background-image: url('../images/pages/img15.svg');
+    }
+    &.funcionales{
+        background-image: url('../images/pages/img18.svg');
+    }
+    &.nofuncionales{
+        background-image: url('../images/pages/img19.svg');
+    }
+    &.observacion{
+        background-image: url('../images/pages/img22.svg');
+    }
+    &.escenarios{
+        background-image: url('../images/pages/img24.svg');
+    }
+    &.uso{
+        background-image: url('../images/pages/img26.svg');
+    }
+}
+
+.text-icon{
+    color: #407DCF;
+    font-size: 30px;
+    padding-left: 50px;
+}
